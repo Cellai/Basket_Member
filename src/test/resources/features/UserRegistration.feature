@@ -40,3 +40,4 @@ Feature: User Registration on Basketball England
       | Lionel    |          | 01/01/1991 | password123 | password123     | Coach | accepts         |
       | Lionel    | Messi    | 01/01/1991 | password123 | password456     | Coach | accepts         |
       | Lionel    | Messi    | 01/01/1991 | password123 | password123     | Coach | does not accept |
+ #

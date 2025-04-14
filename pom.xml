@@ -44,7 +44,7 @@
             <version>5.8.0</version> <!-- eller senaste versionen -->
         </dependency>
 
-        <!-- Selenium -->
+        <!-- Selenium  -->
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
